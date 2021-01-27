@@ -21,7 +21,7 @@ public class L2ex2 {
 		if(C>maior) {
 			meio=maior;
 			maior=C;
-		} else if(C<menor){
+		} else if(C<=menor){
 			meio=menor;
 			menor=C;
 		} else {
