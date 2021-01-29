@@ -16,7 +16,7 @@ public class LacoParaEnquanto {
 			System.out.print("-");
 		}
 		
-		
+		ler.close();
 	}
 
 }

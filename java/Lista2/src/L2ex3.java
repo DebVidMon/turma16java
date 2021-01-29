@@ -14,5 +14,6 @@ public static void main(String[] args) {
 	}else {
 		System.out.println("Sem categoria");
 	}
+	ler.close();
 }
 }

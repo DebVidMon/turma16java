@@ -19,5 +19,6 @@ public static void main(String[] args) {
 	parcial =Math.pow((x2-x1),2)+Math.pow((y2-y1),2);
 	d= Math.sqrt(parcial);
 	System.out.println("Distância d= "+d);
+	ler.close();
 }
 }

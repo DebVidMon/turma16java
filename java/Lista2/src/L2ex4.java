@@ -15,6 +15,8 @@ public class L2ex4 {
 			quadrado = Math.pow(x,2);
 			System.out.println("Este valor é ímpar e ao quadrado é "+quadrado);
 		}
+		
+		ler.close();
 	}
 
 }

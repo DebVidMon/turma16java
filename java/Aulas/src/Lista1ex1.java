@@ -15,5 +15,6 @@ public class Lista1ex1 {
 		dias = ler.nextInt();
 		total=(anos*365)+(meses*30)+dias;
 		System.out.println("Você tem aproximadamente "+ total +" dias de idade");
+		ler.close();
 	}
 }

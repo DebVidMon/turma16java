@@ -12,6 +12,6 @@ public static void main(String[] args) {
 	nota3 = ler.nextDouble();
 	media =(nota1*2)+(nota2*3)+(nota3*5)/10;
 	System.out.println("A média das notas é "+media);		
-	
+	ler.close();
 }
 }

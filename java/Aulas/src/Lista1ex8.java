@@ -10,6 +10,7 @@ public class Lista1ex8 {
 		distribuidor=0.28*fabrica;
 		precoFinal=fabrica+imposto+distribuidor;
 		System.out.println("O preço ao consumidor será R$"+precoFinal);
+		ler.close();
 	}
 
 }

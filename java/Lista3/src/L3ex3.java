@@ -20,5 +20,6 @@ public class L3ex3 {
 		}
 		System.out.println("Total de pessoas com menos de 21 anos: "+contador21);
 		System.out.println("Total de pessoas com mais de 50 anos: "+contador50);
+		ler.close();
 	}
 }

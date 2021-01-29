@@ -18,6 +18,6 @@ public class Lista1ex4 {
 		D= (R+S)/2;
 		System.out.println("R= "+R+" S= "+S);
 		System.out.println("D= "+D);
-		
+		ler.close();
 	}
 }

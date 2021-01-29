@@ -18,6 +18,6 @@ public static void main(String[] args) {
 		valor--;
 	}
 	System.out.println("A soma de todos os números de 1 até o número dado é "+soma);
-	
+	ler.close();
 }
 }

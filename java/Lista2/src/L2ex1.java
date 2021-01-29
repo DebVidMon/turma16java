@@ -19,9 +19,10 @@ public class L2ex1 {
 	C = ler.nextInt();
 	if(C>maior) {
 		maior=C;
-	} else {
-		maior=maior;
-	}
+	} 
 	System.out.println("O maior  valor é "+maior);
+	
+	ler.close();
 	}
+	
 }

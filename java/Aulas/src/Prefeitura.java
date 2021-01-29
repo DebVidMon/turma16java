@@ -35,7 +35,7 @@ d) percentual de pessoas com salário até R$100,00.*/
 	System.out.println("\nA porcentagem de pessoas com salário até R$100,00 é "+(somaCem*100/hab)+"%");
 	
 	
-	
+	ler.close();
 
 	}
 }

@@ -11,6 +11,7 @@ public static void main(String[] args) {
 		meses= (dias%365)/30;
 		dias =(dias%365)%30;
 		System.out.println("Você tem "+ anos +" anos, "+meses+" meses e "+dias+" dias de idade");
+		ler.close();
 	}
 
 }

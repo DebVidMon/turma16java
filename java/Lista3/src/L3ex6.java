@@ -23,6 +23,6 @@ public class L3ex6 {
 		}else {
 			System.out.println("Sem números múltiplos de 3");
 		}
-		
+		ler.close();
 	}
 }

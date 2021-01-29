@@ -14,6 +14,8 @@ public class Lista3ex5 {
 		}while(n!=0);
 		
 		System.out.println("A soma dos números é "+soma);
+		
+		ler.close();
 	}
 
 }

@@ -16,5 +16,6 @@ public static void main(String[] args) {
 		}
 	}
 	System.out.println("Você digitou "+contadorP+" números pares e "+contadorI+" números ímpares");
+	dig.close();
 }
 }

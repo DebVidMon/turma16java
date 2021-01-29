@@ -28,6 +28,7 @@ public class L2ex2 {
 			C=meio;				
 		}
 		System.out.println("Ordem crescente "+menor+"\t"+meio+"\t"+maior);
+		ler.close();
 	}
 }
 

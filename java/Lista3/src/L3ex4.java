@@ -50,6 +50,7 @@ public class L3ex4 {
 			System.out.println(" "+outrosCalme+" outros calmes;");
 			System.out.println(" "+pessoaNervosa40+" pessoas nervosas com mais de 40 anos;");	
 			System.out.println(" "+pessoaCalma18+" pessoas calmas com menos de 18 anos");
+			ler.close();
 				
 	}
 }

@@ -10,5 +10,6 @@ public static void main(String[] args) {
 	min= (seg%3600)/30;
 	seg =(seg%3600)%30;
 	System.out.println("Foram "+ h +" horas, "+min+" minutos e "+seg+" segundos");
+	ler.close();
 }
 }
