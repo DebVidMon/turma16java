@@ -15,6 +15,8 @@ public class Condicional {
 		}else if(x%2==1){
 			System.out.println("Este valor é ímpar");
 		}
+		
+		ler.close();
 	}
 
 }
